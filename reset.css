@@ -1,0 +1,5 @@
+/* reset css margin và padding mặc định của toàn bộ trang */
+* {
+    margin: 0;
+    padding: 0;
+}
